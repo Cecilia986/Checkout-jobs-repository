@@ -1,0 +1,7 @@
+1. pip install -r requirements.txt
+ This command will install all the packages listed in the 
+ requirements.txt file. Make sure you have pip installed and 
+ run this command in your terminal or command prompt while being 
+ in the same directory as the requirements.txt file.
+
+ 2. Playwright Python
